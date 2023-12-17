@@ -1,0 +1,29 @@
+{
+    "name": "Phantasy Star IV: Profound Distortion Emotracker Pack",
+    "packages": [
+      {
+        "name": "PSIV PD randozmizer emotracker pack",
+        "author": "CommodoreCanadia64",
+        "game_name": "Phantasy Star IV: Profound Distortion Randomizer",
+        "version": "1.0",
+        "flags": [ "map", "pins", "chathud" ],
+        "required_app_version": "2.3.8.19",
+        "uid": "Phantasy Star IV Randomizer",
+        "link": "https://github.com/CommodoreCanadia64/PSIVPDTRACKER/releases/tag/PSIVTRACKER",
+        "variants": [
+          {
+            "name": "Objective mode"
+          },
+          {
+            "name": "Ring hunt Mode"
+          },
+          {
+            "name": "Non Incentivized Checks Objective Mode"
+          },
+          {
+            "name": "Non Incentivized Checks Ring Hunt Mode"
+          }
+        ]
+      }
+    ]
+  }
