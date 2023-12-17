@@ -1,0 +1,576 @@
+[
+    {
+        "name": "map",
+        "children": [
+            {
+                "name": "Piata", 
+                "map_locations": [
+                        {
+                            "x": 115,
+                            "y": 840,
+                            "map": "map"
+                        }
+                ],
+                "sections": [
+                    {
+                        "name": "Piata Basement lvl 1+",
+                        "item_count": 1
+                       
+                    }
+                ]
+            },
+            {
+                "name": "Zema/Bio lab", 
+                "map_locations": [
+                        {
+                            "x": 255,
+                            "y": 655,
+                            "map": "map"
+                        }
+                ],
+                "sections": [
+                    {
+                        "name": "chest second floor in cave and talk to seed in bio lab",
+                        "clear_as_group": false,
+                        "access_rules": ["Alsh"],
+                        "item_count": 2
+                       
+                    }
+                ]
+            },
+            {
+                "name": "The Edge", 
+                "map_locations": [
+                        {
+                            "x": 155,
+                            "y": 750,
+                            "map": "map"
+                        }
+                ],
+                "sections": [
+                    {
+                        "name": "Profound Darkness",
+                        "access_rules": ["aring,mring,dring,pring,rring"],
+                        "item_count": 1
+                       
+                    }
+                ]
+            },
+            {
+                "name": "Zio's Fort", 
+                "map_locations": [
+                        {
+                            "x": 135,
+                            "y": 700,
+                            "map": "map"
+                        }
+                ],
+                "sections": [
+                    {
+                        "name": "Upstairs lvl 11+ Minor Boss",
+                        "item_count": 1
+                       
+                    },
+                    {
+                        "name": "Nurvus lvl 20+ Major Boss",
+                        "access_rules": ["Wand"],
+                        "item_count": 1
+                       
+                    }
+                ]
+            },
+            {
+                "name": "Mile Ranch", 
+                "map_locations": [
+                        {
+                            "x": 165,
+                            "y": 715,
+                            "map": "map"
+                        }
+                ],
+                "sections": [
+                    {
+                        "name": "Sandworm pit lvl 11+ Minor Boss",
+                        "item_count": 1
+                       
+                    }
+                ]
+            },
+            {
+                "name": "Kadary", 
+                "map_locations": [
+                        {
+                            "x": 115,
+                            "y": 650,
+                            "map": "map"
+                        }
+                ],
+                "sections": [
+                    {
+                        "name": "Kadary outskirts",
+                        "item_count": 1
+                       
+                    }
+                ]
+            },
+            {
+                "name": "Passageway", 
+                "map_locations": [
+                        {
+                            "x": 75,
+                            "y": 625,
+                            "map": "map"
+                        }
+                ],
+                "sections": [
+                    {
+                        "name": "South Chest",
+                        "item_count": 1
+                       
+                    }
+                ]
+            },
+            {
+                "name": "Aiedo", 
+                "map_locations": [
+                        {
+                            "x": 95,
+                            "y": 585,
+                            "map": "map"
+                        }
+                ],
+                "sections": [
+                    {
+                        "name": "Behind Guild",
+                        "item_count": 1
+                       
+                    }
+                ]
+            },
+            {
+                "name": "Wreckage", 
+                "map_locations": [
+                        {
+                            "x": 185,
+                            "y": 515,
+                            "map": "map"
+                        }
+                ],
+                "sections": [
+                    {
+                        "name": "Console",
+                        "item_count": 1
+                       
+                    }
+                ]
+            },
+            {
+                "name": "Vahal Fort", 
+                "map_locations": [
+                        {
+                            "x": 435,
+                            "y": 515,
+                            "map": "map"
+                        }
+                ],
+                "sections": [
+                    {
+                        "name": "Minor Boss lvl 20+",
+                        "access_rules": ["V_key,foil"],
+                        "item_count": 1
+                       
+                    }
+                ]
+            },
+            {
+                "name": "Molcum", 
+                "map_locations": [
+                        {
+                            "x": 215,
+                            "y": 900,
+                            "map": "map"
+                        }
+                ],
+                "sections": [
+                    {
+                        "name": "Talk to Character",
+                        "item_count": 1
+                       
+                    }
+                ]
+            },
+            {
+                "name": "Soldiers Temple", 
+                "map_locations": [
+                        {
+                            "x": 320,
+                            "y": 880,
+                            "map": "map"
+                        }
+                ],
+                "sections": [
+                    {
+                        "name": "Major Boss lvl 35+ Chest in temple",
+                        "clear_as_group": false,
+                        "access_rules": ["foil"],
+                        "item_count": 2
+                       
+                    }
+                ]
+            },
+            {
+                "name": "Valley Maze", 
+                "map_locations": [
+                        {
+                            "x": 350,
+                            "y": 770,
+                            "map": "map"
+                        }
+                ],
+                "sections": [
+                    {
+                        "name": "Chest closest to tonoe exit",
+                        "item_count": 1
+                       
+                    }
+                ]
+            },
+            {
+                "name": "Plate System", 
+                "map_locations": [
+                        {
+                            "x": 530,
+                            "y": 660,
+                            "map": "map"
+                        }
+                ],
+                "sections": [
+                    {
+                        "name": "Console",
+                        "access_rules": ["plat,foil","Digger,plat"],
+                        "item_count": 1
+                       
+                    }
+                ]
+            },
+            {
+                "name": "Monsen", 
+                "map_locations": [
+                        {
+                            "x": 500,
+                            "y": 720,
+                            "map": "map"
+                        }
+                ],
+                "sections": [
+                    {
+                        "name": "Monsen Fissure lvl 15+ Minor Boss",
+                        "access_rules": ["foil","Digger"],
+                        "item_count": 1
+                       
+                    }
+                ]
+            },
+            {
+                "name": "Tonoe", 
+                "map_locations": [
+                        {
+                            "x": 400,
+                            "y": 680,
+                            "map": "map"
+                        }
+                ],
+                "sections": [
+                    {
+                        "name": "Tonoe Cellar",
+                        "item_count": 1
+                       
+                    }
+                ]
+            },
+            {
+                "name": "Ladea Tower", 
+                "map_locations": [
+                        {
+                            "x": 550,
+                            "y": 840,
+                            "map": "map"
+                        }
+                ],
+                "sections": [
+                    {
+                        "name": "Boss lvl 18+ Major Boss",
+                        "access_rules": ["foil","Digger"],
+                        "item_count": 1
+                       
+                    }
+                ]
+            },
+            {
+                "name": "Rappy Cave", 
+                "map_locations": [
+                        {
+                            "x": 600,
+                            "y": 920,
+                            "map": "map"
+                        }
+                ],
+                "sections": [
+                    {
+                        "name": "Boss lvl 25+ Major Boss",
+                        "access_rules": ["foil"],
+                        "item_count": 1
+                       
+                    }
+                ]
+            },
+            {
+                "name": "Anger Tower", 
+                "map_locations": [
+                        {
+                            "x": 795,
+                            "y": 970,
+                            "map": "map"
+                        }
+                ],
+                "sections": [
+                    {
+                        "name": "Boss lvl 30+ Minor Boss",
+                        "access_rules": ["Elsy"],
+                        "item_count": 1
+                       
+                    }
+                ]
+            },
+            {
+                "name": "Silence Temple", 
+                "map_locations": [
+                        {
+                            "x": 1000,
+                            "y": 745,
+                            "map": "map"
+                        }
+                ],
+                "sections": [
+                    {
+                        "name": "chest in the back",
+                        "item_count": 1
+                       
+                    }
+                ]
+            },
+            {
+                "name": "Courage Tower", 
+                "map_locations": [
+                        {
+                            "x": 1220,
+                            "y": 975,
+                            "map": "map"
+                        }
+                ],
+                "sections": [
+                    {
+                        "name": "Boss lvl 32+ Major Boss",
+                        "item_count": 1
+                       
+                    }
+                ]
+            },
+            {
+                "name": "Strength Tower", 
+                "map_locations": [
+                        {
+                            "x": 785,
+                            "y": 515,
+                            "map": "map"
+                        }
+                ],
+                "sections": [
+                    {
+                        "name": "Boss lvl 30+ Major Boss",
+                        "item_count": 1
+                       
+                    }
+                ]
+            },
+            {
+                "name": "Zelan", 
+                "map_locations": [
+                        {
+                            "x": 1265,
+                            "y": 355,
+                            "map": "map"
+                        }
+                ],
+                "sections": [
+                    {
+                        "name": "Talk to Character",
+                        "item_count": 1
+                       
+                    }
+                ]
+            },
+            {
+                "name": "Kuran", 
+                "map_locations": [
+                        {
+                            "x": 1265,
+                            "y": 245,
+                            "map": "map"
+                        }
+                ],
+                "sections": [
+                    {
+                        "name": "Major Boss lvl 25+",
+                        "item_count": 1
+                       
+                    }
+                ]
+            },
+            {
+                "name": "Air Castle", 
+                "map_locations": [
+                        {
+                            "x": 1265,
+                            "y": 125,
+                            "map": "map"
+                        }
+                ],
+                "sections": [
+                    {
+                        "name": "Guard-Minor Boss lvl 25+(no items) Ruler-Major Boss lvl 30+ (2 items)",
+                        "clear_as_group": false,
+                        "access_rules": ["Prism"],
+                        "item_count": 2
+                       
+                    }
+                ]
+            },
+            {
+                "name": "Esper Mansion", 
+                "map_locations": [
+                        {
+                            "x": 1160,
+                            "y": 210,
+                            "map": "map"
+                        }
+                ],
+                "sections": [
+                    {
+                        "name": "Sacred Sword Cave",
+                        "access_rules": ["Digger"],
+                        "item_count": 1
+                       
+                    }
+                ]
+            },
+            {
+                "name": "Garbage Tower", 
+                "map_locations": [
+                        {
+                            "x": 940,
+                            "y": 20,
+                            "map": "map"
+                        }
+                ],
+                "sections": [
+                    {
+                        "name": "Major Boss lvl 28+",
+                        "access_rules": ["Torch,Digger"],
+                        "item_count": 1
+                       
+                    }
+                ]
+            },
+            {
+                "name": "Climate Centre", 
+                "map_locations": [
+                        {
+                            "x": 650,
+                            "y": 55,
+                            "map": "map"
+                        }
+                ],
+                "sections": [
+                    {
+                        "name": "Minor Boss lvl 20+",
+                        "access_rules": ["Digger"],
+                        "item_count": 1
+                       
+                    }
+                ]
+            },
+            {
+                "name": "Gumbious Temple", 
+                "map_locations": [
+                        {
+                            "x": 645,
+                            "y": 265,
+                            "map": "map"
+                        }
+                ],
+                "sections": [
+                    {
+                        "name": "Basement",
+                        "access_rules": ["Digger"],
+                        "item_count": 1
+                       
+                    }
+                ]
+            },
+            {
+                "name": "Weapon Plant", 
+                "map_locations": [
+                        {
+                            "x": 445,
+                            "y": 390,
+                            "map": "map"
+                        }
+                ],
+                "sections": [
+                    {
+                        "name": "Left door-Right side",
+                        "access_rules": ["Digger"],
+                        "item_count": 1
+                       
+                    }
+                ]
+            },
+            {
+                "name": "Myst Valley", 
+                "map_locations": [
+                        {
+                            "x": 195,
+                            "y": 20,
+                            "map": "map"
+                        }
+                ],
+                "sections": [
+                    {
+                        "name": "PET THE KITTY",
+                        "access_rules": ["Digger"],
+                        "item_count": 1
+                       
+                    }
+                ]
+            },
+            {
+                "name": "Tyler/Hangar", 
+                "map_locations": [
+                        {
+                            "x": 105,
+                            "y": 265,
+                            "map": "map"
+                        }
+                ],
+                "sections": [
+                    {
+                        "name": "inspect the grave",
+                        "item_count": 1
+                       
+                    }
+                ]
+            }
+        ]
+    }
+]
