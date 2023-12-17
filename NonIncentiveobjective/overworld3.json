@@ -1,0 +1,600 @@
+[
+    {
+        "name": "map",
+        "children": [
+            {
+                "name": "Piata", 
+                "map_locations": [
+                        {
+                            "x": 115,
+                            "y": 840,
+                            "map": "map"
+                        }
+                ],
+                "sections": [
+                    {
+                        "name": "Piata Basement 3 chests and minor boss lvl 1+",
+                        "clear_as_group": false,
+                        "item_count": 4
+                       
+                    }
+                ]
+            },
+            {
+                "name": "Zema", 
+                "map_locations": [
+                        {
+                            "x": 255,
+                            "y": 655,
+                            "map": "map"
+                        }
+                ],
+                "sections": [
+                    {
+                        "name": "7 chests and talk to seed in Bio Lab",
+                        "clear_as_group": false,
+                        "access_rules": ["Alsh"],
+                        "item_count": 8
+                       
+                    }
+                ]
+            },
+            {
+                "name": "The Edge", 
+                "map_locations": [
+                        {
+                            "x": 155,
+                            "y": 750,
+                            "map": "map"
+                        }
+                ],
+                "sections": [
+                    {
+                        "name": "Profound Darkness",
+                        "access_rules": ["objective:8"],
+                        "item_count": 1
+                       
+                    }
+                ]
+            },
+            {
+                "name": "Zio's Fort / Nurvus", 
+                "map_locations": [
+                        {
+                            "x": 135,
+                            "y": 700,
+                            "map": "map"
+                        }
+                ],
+                "sections": [
+                    {
+                        "name": "6 chests and Upstairs lvl 11+ Minor Boss and save character",
+                        "clear_as_group": false,
+                        "item_count": 7
+                       
+                    },
+                    {
+                        "name": "Nurvus 5 chests and Nurvus lvl 20+ Major Boss",
+                        "clear_as_group": false,
+                        "access_rules": ["Wand"],
+                        "item_count": 6
+                       
+                    }
+                ]
+            },
+            {
+                "name": "Mile Ranch", 
+                "map_locations": [
+                        {
+                            "x": 165,
+                            "y": 715,
+                            "map": "map"
+                        }
+                ],
+                "sections": [
+                    {
+                        "name": "Sandworm pit lvl 11+ Minor Boss",
+                        "item_count": 1
+                       
+                    }
+                ]
+            },
+            {
+                "name": "Kadary", 
+                "map_locations": [
+                        {
+                            "x": 115,
+                            "y": 650,
+                            "map": "map"
+                        }
+                ],
+                "sections": [
+                    {
+                        "name": "Kadary outskirts",
+                        "item_count": 1
+                       
+                    }
+                ]
+            },
+            {
+                "name": "Passageway", 
+                "map_locations": [
+                        {
+                            "x": 75,
+                            "y": 625,
+                            "map": "map"
+                        }
+                ],
+                "sections": [
+                    {
+                        "name": "South Chest",
+                        "clear_as_group": false,
+                        "item_count": 2
+                       
+                    }
+                ]
+            },
+            {
+                "name": "Aiedo", 
+                "map_locations": [
+                        {
+                            "x": 95,
+                            "y": 585,
+                            "map": "map"
+                        }
+                ],
+                "sections": [
+                    {
+                        "name": "Behind Guild",
+                        "clear_as_group": false,
+                        "item_count": 2
+                       
+                    }
+                ]
+            },
+            {
+                "name": "Wreckage", 
+                "map_locations": [
+                        {
+                            "x": 185,
+                            "y": 515,
+                            "map": "map"
+                        }
+                ],
+                "sections": [
+                    {
+                        "name": "Console",
+                        "clear_as_group": false,
+                        "item_count": 6
+                       
+                    }
+                ]
+            },
+            {
+                "name": "Vahal Fort", 
+                "map_locations": [
+                        {
+                            "x": 435,
+                            "y": 515,
+                            "map": "map"
+                        }
+                ],
+                "sections": [
+                    {
+                        "name": "5 chests and Minor Boss lvl 20+",
+                        "clear_as_group": false,
+                        "access_rules": ["V_key,foil"],
+                        "item_count": 6
+                       
+                    }
+                ]
+            },
+            {
+                "name": "Molcum", 
+                "map_locations": [
+                        {
+                            "x": 215,
+                            "y": 900,
+                            "map": "map"
+                        }
+                ],
+                "sections": [
+                    {
+                        "name": "Talk to Character",
+                        "item_count": 1
+                       
+                    }
+                ]
+            },
+            {
+                "name": "Soldiers Temple", 
+                "map_locations": [
+                        {
+                            "x": 320,
+                            "y": 880,
+                            "map": "map"
+                        }
+                ],
+                "sections": [
+                    {
+                        "name": "5 chests and Major Boss lvl 35+ and Chest in temple",
+                        "clear_as_group": false,
+                        "access_rules": ["foil"],
+                        "item_count": 7
+                       
+                    }
+                ]
+            },
+            {
+                "name": "Valley Maze", 
+                "map_locations": [
+                        {
+                            "x": 350,
+                            "y": 770,
+                            "map": "map"
+                        }
+                ],
+                "sections": [
+                    {
+                        "name": "2 chests",
+                        "clear_as_group": false,
+                        "item_count": 2
+                       
+                    }
+                ]
+            },
+            {
+                "name": "Plate System", 
+                "map_locations": [
+                        {
+                            "x": 530,
+                            "y": 660,
+                            "map": "map"
+                        }
+                ],
+                "sections": [
+                    {
+                        "name": "8 chests and Console",
+                        "clear_as_group": false,
+                        "access_rules": ["plat,foil","Digger,plat"],
+                        "item_count": 9
+                       
+                    }
+                ]
+            },
+            {
+                "name": "Monsen", 
+                "map_locations": [
+                        {
+                            "x": 500,
+                            "y": 720,
+                            "map": "map"
+                        }
+                ],
+                "sections": [
+                    {
+                        "name": "Monsen Fissure lvl 15+ Minor Boss",
+                        "access_rules": ["foil","Digger"],
+                        "item_count": 1
+                       
+                    }
+                ]
+            },
+            {
+                "name": "Tonoe", 
+                "map_locations": [
+                        {
+                            "x": 400,
+                            "y": 680,
+                            "map": "map"
+                        }
+                ],
+                "sections": [
+                    {
+                        "name": "8 chests in the Tonoe Cellar",
+                        "clear_as_group": false,
+                        "item_count": 8
+                       
+                    }
+                ]
+            },
+            {
+                "name": "Ladea Tower", 
+                "map_locations": [
+                        {
+                            "x": 550,
+                            "y": 840,
+                            "map": "map"
+                        }
+                ],
+                "sections": [
+                    {
+                        "name": "6 chests and Major Boss lvl 18+",
+                        "clear_as_group": false,
+                        "access_rules": ["foil","Digger"],
+                        "item_count": 7
+                       
+                    }
+                ]
+            },
+            {
+                "name": "Rappy Cave", 
+                "map_locations": [
+                        {
+                            "x": 600,
+                            "y": 920,
+                            "map": "map"
+                        }
+                ],
+                "sections": [
+                    {
+                        "name": "Boss lvl 25+ Major Boss",
+                        "access_rules": ["foil"],
+                        "item_count": 1
+                       
+                    }
+                ]
+            },
+            {
+                "name": "Anger Tower", 
+                "map_locations": [
+                        {
+                            "x": 795,
+                            "y": 970,
+                            "map": "map"
+                        }
+                ],
+                "sections": [
+                    {
+                        "name": "2 chests and Minor Boss lvl 30+",
+                        "clear_as_group": false,
+                        "access_rules": ["Elsy"],
+                        "item_count": 3
+                       
+                    }
+                ]
+            },
+            {
+                "name": "Silence Temple", 
+                "map_locations": [
+                        {
+                            "x": 1000,
+                            "y": 745,
+                            "map": "map"
+                        }
+                ],
+                "sections": [
+                    {
+                        "name": "4 chests",
+                        "clear_as_group": false,
+                        "item_count": 4
+                       
+                    }
+                ]
+            },
+            {
+                "name": "Courage Tower", 
+                "map_locations": [
+                        {
+                            "x": 1220,
+                            "y": 975,
+                            "map": "map"
+                        }
+                ],
+                "sections": [
+                    {
+                        "name": "4 chests and Major Boss lvl 32+ 2 chests after boss kill",
+                        "clear_as_group": false,
+                        "item_count": 6
+                       
+                    }
+                ]
+            },
+            {
+                "name": "Strength Tower", 
+                "map_locations": [
+                        {
+                            "x": 785,
+                            "y": 515,
+                            "map": "map"
+                        }
+                ],
+                "sections": [
+                    {
+                        "name": "5 chests and Major Boss lvl 30+ 3 chests after kill",
+                        "clear_as_group": false,
+                        "item_count": 8
+                       
+                    }
+                ]
+            },
+            {
+                "name": "Zelan", 
+                "map_locations": [
+                        {
+                            "x": 1265,
+                            "y": 355,
+                            "map": "map"
+                        }
+                ],
+                "sections": [
+                    {
+                        "name": "6 chests and Talk to Character",
+                        "clear_as_group": false,
+                        "item_count": 7
+                       
+                    }
+                ]
+            },
+            {
+                "name": "Kuran", 
+                "map_locations": [
+                        {
+                            "x": 1265,
+                            "y": 245,
+                            "map": "map"
+                        }
+                ],
+                "sections": [
+                    {
+                        "name": "6 chests and Major Boss lvl 25+",
+                        "clear_as_group": false,
+                        "item_count": 7
+                       
+                    }
+                ]
+            },
+            {
+                "name": "Air Castle", 
+                "map_locations": [
+                        {
+                            "x": 1265,
+                            "y": 125,
+                            "map": "map"
+                        }
+                ],
+                "sections": [
+                    {
+                        "name": "12 chests and Guard-Minor Boss lvl 25+(no items) Ruler-Major Boss lvl 30+ (2 items)",
+                        "clear_as_group": false,
+                        "access_rules": ["Prism"],
+                        "item_count": 14
+                       
+                    }
+                ]
+            },
+            {
+                "name": "Esper Mansion", 
+                "map_locations": [
+                        {
+                            "x": 1160,
+                            "y": 210,
+                            "map": "map"
+                        }
+                ],
+                "sections": [
+                    {
+                        "name": "4 chests in mansion and Sacred Sword Cave",
+                        "clear_as_group": false,
+                        "access_rules": ["Digger"],
+                        "item_count": 5
+                       
+                    }
+                ]
+            },
+            {
+                "name": "Garbage Tower", 
+                "map_locations": [
+                        {
+                            "x": 940,
+                            "y": 20,
+                            "map": "map"
+                        }
+                ],
+                "sections": [
+                    {
+                        "name": "8 chests and Major Boss lvl 28+",
+                        "clear_as_group": false,
+                        "access_rules": ["Torch,Digger"],
+                        "item_count": 9
+                       
+                    }
+                ]
+            },
+            {
+                "name": "Climate Centre", 
+                "map_locations": [
+                        {
+                            "x": 650,
+                            "y": 55,
+                            "map": "map"
+                        }
+                ],
+                "sections": [
+                    {
+                        "name": "6 chests and Minor Boss lvl 20+",
+                        "clear_as_group": false,
+                        "access_rules": ["Digger"],
+                        "item_count": 7
+                       
+                    }
+                ]
+            },
+            {
+                "name": "Gumbious Temple", 
+                "map_locations": [
+                        {
+                            "x": 645,
+                            "y": 265,
+                            "map": "map"
+                        }
+                ],
+                "sections": [
+                    {
+                        "name": "4 chests in the Basement",
+                        "clear_as_group": false,
+                        "access_rules": ["Digger"],
+                        "item_count": 4
+                       
+                    }
+                ]
+            },
+            {
+                "name": "Weapon Plant", 
+                "map_locations": [
+                        {
+                            "x": 445,
+                            "y": 390,
+                            "map": "map"
+                        }
+                ],
+                "sections": [
+                    {
+                        "name": "4 chests",
+                        "clear_as_group": false,
+                        "access_rules": ["Digger"],
+                        "item_count": 4
+                       
+                    }
+                ]
+            },
+            {
+                "name": "Myst Valley", 
+                "map_locations": [
+                        {
+                            "x": 195,
+                            "y": 20,
+                            "map": "map"
+                        }
+                ],
+                "sections": [
+                    {
+                        "name": "2 chests and PET THE KITTY",
+                        "clear_as_group": false,
+                        "access_rules": ["Digger"],
+                        "item_count": 3
+                       
+                    }
+                ]
+            },
+            {
+                "name": "Tyler/Hangar", 
+                "map_locations": [
+                        {
+                            "x": 105,
+                            "y": 265,
+                            "map": "map"
+                        }
+                ],
+                "sections": [
+                    {
+                        "name": "inspect the grave 2 chests and see the Landale",
+                        "clear_as_group": false,
+                        "item_count": 3
+                       
+                    }
+                ]
+            }
+        ]
+    }
+]
