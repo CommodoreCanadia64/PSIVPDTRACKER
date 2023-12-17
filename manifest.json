@@ -1,0 +1,22 @@
+﻿{
+    "name": "Phantasy Star IV: Profound Distortion Randomizer",
+    "game_name": "PSIV PD",
+    "platform": "Genesis",
+    "package_version": "2.0",
+    "package_uid": "Phantasy Star IV Randomizer",
+    "author": "CommodoreCanadia64",
+    "variants": {
+        "itemrando": {
+            "display_name": "Objective mode"
+        },
+        "Ring Hunt":{
+          "display_name": "Ring hunt Mode"
+        },
+        "Non Incentivized Objective":{
+          "display_name": "Non Incentivized Checks Objective Mode"
+        },
+        "Non Incentivized Ring Hunt":{
+          "display_name": "Non Incentivized Checks Ring Hunt Mode"
+        }
+    }
+}
