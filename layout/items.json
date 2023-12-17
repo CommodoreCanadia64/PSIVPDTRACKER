@@ -1,0 +1,45 @@
+{
+    "tracker_items": {
+        "type": "array",
+        "orientation": "horizontal",
+        "content": [
+            {
+                "type": "itemgrid",
+                "item_size": 60,
+                "h_alignment": "left",
+                "item_margin": "1,2",
+                "rows": [
+                    [
+						"Prism",
+						"Alsh",
+                        "Torch"
+                    ],
+					[
+						"Elsy",
+						"foil",
+						"Digger"
+                    ],
+					[
+                        "P_key",
+						"Wand",
+						"V_key"
+                    ],
+                    
+                    [
+                        "aring",
+                        "mring",
+                        "dring"
+                    ],
+                    [
+                        "pring",
+                        "rring"
+                    ],
+                    [
+                        "objective",
+						"amber"
+                    ]
+                ]
+            }
+		]     
+    }    
+}
