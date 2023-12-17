@@ -1,0 +1,102 @@
+[
+	{
+	  "name": "AeroPrism",
+	  "type": "Toggle",
+	  "img": "images/aeroprism.png",
+	  "codes": "Prism"
+	},
+	{
+	  "name": "Alshline",
+	  "type": "Toggle",
+	  "img": "images/alshline.png",
+	  "codes": "Alsh"
+	},
+	{
+	  "name": "EclipseTorch",
+	  "type": "Toggle",
+	  "img": "images/torch.png",
+	  "codes": "Torch"
+	},
+	{
+	  "name": "Elsydeon",
+	  "type": "Toggle",
+	  "img": "images/elsydeon.png",
+	  "codes": "Elsy"
+	},
+	{
+	  "name": "Hydrofoil",
+	  "type": "Toggle",
+	  "img": "images/hydrofoil.png",
+	  "codes": "foil"
+	},
+	{
+	  "name": "Icedigger",
+	  "type": "Toggle",
+	  "img": "images/icedigger.png",
+	  "codes": "Digger"
+	},
+	{
+	  "name": "Plate_Key",
+	  "type": "Toggle",
+	  "img": "images/platekey.png",
+	  "codes": "P_key,plat"
+	},
+	{
+	  "name": "Psychowand",
+	  "type": "Toggle",
+	  "img": "images/psycowand.png",
+	  "codes": "Wand"
+	},
+	{
+	  "name": "Vahalkey",
+	  "type": "Toggle",
+	  "img": "images/vahalkey.png",
+	  "codes": "V_key"
+	},
+	{
+		"name": "Algo Ring",
+		"type": "Toggle",
+		"img": "images/aring.png",
+		"codes": "aring"
+	  },
+	  {
+		"name": "Mota Ring",
+		"type": "Toggle",
+		"img": "images/mring.png",
+		"codes": "mring"
+	  },
+	  {
+		"name": "Dezo Ring",
+		"type": "Toggle",
+		"img": "images/dring.png",
+		"codes": "dring"
+	  },
+	  {
+		"name": "Palm Ring",
+		"type": "Toggle",
+		"img": "images/pring.png",
+		"codes": "pring"
+	  },
+	  {
+		"name": "Rykr Ring",
+		"type": "Toggle",
+		"img": "images/rring.png",
+		"codes": "rring"
+	  },
+	{
+		"name": "objective",
+		"type": "consumable",
+		"img": "images/objective.png",
+		"codes": "objective",
+		"max_quantity": 8,
+		"initial_quantity": 0
+	  },
+	  {
+		"name": "ambereye",
+		"type": "consumable",
+		"img": "images/ambereye.png",
+		"codes": "amber",
+		"max_quantity": 5,
+		"initial_quantity": 0
+	  }
+  ]
