@@ -9,7 +9,7 @@
         "flags": [ "map", "pins", "chathud" ],
         "required_app_version": "2.3.8.19",
         "uid": "Phantasy Star IV Randomizer",
-        "link": "https://github.com/CommodoreCanadia64/PSIVPDTRACKER/archive/refs/tags/PSIVTRACKER.zip",
+        "link": "https://drive.google.com/file/d/1_E9PtWFxZSWLdBUWfiSzTK-MPulpsH8H/view?usp=drive_link",
         "variants": [
           {
             "name": "Objective mode"
