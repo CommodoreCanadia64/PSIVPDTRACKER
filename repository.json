@@ -4,7 +4,7 @@
       {
         "name": "PSIV PD randozmizer emotracker pack",
         "author": "CommodoreCanadia64",
-        "game_name": "Phantasy Star IV: Profound Distortion Randomizer",
+        "game_name": "Phantasy Star IV",
         "version": "1.0",
         "flags": [ "map", "pins", "chathud" ],
         "required_app_version": "2.3.8.19",
