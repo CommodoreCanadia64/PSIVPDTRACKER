@@ -8,7 +8,7 @@
         "version": "1.0",
         "flags": [ "map", "pins", "chathud" ],
         "required_app_version": "2.3.8.19",
-        "uid": "Phantasy Star IV Randomizer",
+        "uid": "phantasystariv_pdrtracker_commodorecanadia64",
         "link": "https://drive.google.com/file/d/1_E9PtWFxZSWLdBUWfiSzTK-MPulpsH8H/view?usp=drive_link",
         "variants": [
           {
