@@ -5,11 +5,11 @@
         "name": "Phantasy Star IV: Profound Distortion Randomizer",
         "author": "CommodoreCanadia64",
         "game_name": "Phantasy Star IV",
-        "version": "1.1",
+        "version": "2.0",
         "flags": [ "map", "pins", "chathud" ],
         "required_app_version": "2.3.8.19",
         "uid": "phantasystariv_pdrtracker_commodorecanadia64",
-        "link": "https://drive.google.com/u/0/uc?id=1UYQN5_Snoa2iN_STdkPKL7UeJkr6E0hP&export=download",
+        "link": "https://drive.usercontent.google.com/u/0/uc?id=1D4LWtZ7UvFiwZDWmJu6yS2Ekg-ij4cEg&export=download",
         "variants": [
           {
             "name": "Objective mode"
