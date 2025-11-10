@@ -2,15 +2,7 @@
     "name": "Phantasy Star IV: Profound Distortion Randomizer",
     "game_name": "Phantasy Star IV",
     "platform": "Genesis",
-    "package_version": "6.0.2",
+    "package_version": "6.2.0",
     "package_uid": "phantasystariv_pdrtracker_commodorecanadia64",
-    "author": "CommodoreCanadia64",
-    "variants": {
-        "itemrando": {
-            "display_name": "Incentivised Checks mode"
-        },
-        "Non Incentivized Objective":{
-          "display_name": "Non Incentivized Checks Mode"
-        }
-    }
+    "author": "CommodoreCanadia64"
 }
