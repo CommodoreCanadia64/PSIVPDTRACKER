@@ -5,7 +5,7 @@
         "name": "PSIV PD randozmizer emotracker pack",
         "author": "CommodoreCanadia64",
         "game_name": "Phantasy Star IV",
-        "version": "6.0.2",
+        "version": "6.2.0",
         "flags": [ "map", "pins", "chathud" ],
         "required_app_version": "2.3.8.19",
         "uid": "phantasystariv_pdrtracker_commodorecanadia64",
@@ -21,3 +21,4 @@
       }
     ]
   }
+
