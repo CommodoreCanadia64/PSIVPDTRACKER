@@ -9,16 +9,7 @@
         "flags": [ "map", "pins", "chathud" ],
         "required_app_version": "2.3.8.19",
         "uid": "phantasystariv_pdrtracker_commodorecanadia64",
-        "link": "https://drive.usercontent.google.com/u/0/uc?id=1UYQN5_Snoa2iN_STdkPKL7UeJkr6E0hP&export=download",
-        "variants": [
-          {
-            "name": "Incentivised Checks mode"
-          },
-          {
-            "name": "Non Incentivized Checks Mode"
-          }
-        ]
+        "link": "https://drive.usercontent.google.com/u/0/uc?id=1UYQN5_Snoa2iN_STdkPKL7UeJkr6E0hP&export=download"
       }
     ]
   }
-
